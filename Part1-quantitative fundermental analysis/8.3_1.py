@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 23 20:53:57 2018
-
-@author: Administrator
-"""
 import pandas as pd
 data=pd.read_excel('data.xlsx')
 data2=data.iloc[data['Accper'].values=='2016-12-31',[ 0,2,3,4,5,6,7,8,9,10,11]]
