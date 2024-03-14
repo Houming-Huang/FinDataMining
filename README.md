@@ -1,3 +1,3 @@
 # FinDataMining
 ## Background
-A research project that's assigned by my undergrad tutor Prof. Chunxia Yang, which aims to 
+A research project that was assigned by my undergrad tutor Professor, aims to develop effective quantitative investment strategies by mining and analyzing financial data.
