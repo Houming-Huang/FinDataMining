@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May  5 11:44:37 2018
-
-@author: Administrator
-"""
-
 def get_keydata(dt,num):
     import pandas as pd
     import numpy as np
